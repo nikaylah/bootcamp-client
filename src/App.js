@@ -53,7 +53,7 @@ class App extends React.Component {
                 {employee.location}
                 </p>
                 <p className="card-text">
-                {employee.phone}
+                
                 </p>
                 <a href="#" class="card-link">Card link</a>
               </div>
